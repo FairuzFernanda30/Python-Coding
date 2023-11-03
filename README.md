@@ -1,11 +1,10 @@
 # Python-Coding
 User : FairuzFH30
 
-File Berisi 
-Dataset : https://www.kaggle.com/datasets/zsinghrahulk/asian-countries-gdp-growth/data?select=ADO+April+2023+-+GDP+Growth.csv
+Contain IPYNB File (jupyter Notebook) and Dataset From :
 
-Tujuan
-1. mencari negara GDP tertinggi di benua asia pada tahun 2022 
-2. berdasarkan negar gdp tertinggi dicari daerah dari negara tersebut yang mencari menghasilkan gdp tertinggi 
-3. Membuat grafik GDP Indonesia dari waktu ke waktu berdasarkan data dari dataset 
-4. GDP Indonesia jika dibandingkan dengan malaysia, singapura, dan China 
+GDP Dataset : https://www.kaggle.com/datasets/zsinghrahulk/asian-countries-gdp-growth\n
+
+Laptop Price Dataset : https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction/data\n
+
+Air Quality Dataset : https://www.kaggle.com/datasets/victorahaji/worlds-air-quality-and-water-pollution-dataset?rvi=1\n
